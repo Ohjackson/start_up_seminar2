@@ -1,24 +1,6 @@
-
-<div align="center">
-  <img width="512" alt="TY3yZ66i3oJcEuY1Vrm54xUnDU" src="https://github.com/user-attachments/assets/ade42710-ee47-4eed-b107-e26fb32f1e2a" />
-
-  <h1 style="margin: 20px 0;">AI로 성장하는 기업의 선택, <span style="color:#29FF74">PLAID</span></h1>
-  <p><strong>PLAID</strong>는 AI 기반 B2B 솔루션으로 기업의 문제를 빠르게 해결하고, 운영 효율을 극대화하는 <strong>생산성 향상 플랫폼</strong>입니다.</p>
-</div>
-
----
-
 ## 🏢 About PLAID
 
-| 항목 | 내용 |
-|------|------|
-| 기업명 | PLAID |
-| 설립일 | 2025.02.10 |
-| 대표 | 조태완 |
-| 홈페이지 | [plaidai.io](https://plaidai.io) |
-| 미션 | AI로 고객의 성장 병목을 제거하고 빠른 성장을 돕는다 |
-| 비전 | 세상의 모든 문제를 AI로 해결한다 |
-| 브랜드 메시지 | 가장 빠른 성장을 위한 Growth Partner / Accelerate Your Growth with AI |
+Accelerate Your Growth with AI, PLAID는 AI 기반 B2B 솔루션으로 기업의 문제를 빠르게 해결하고, 운영 효율을 극대화하는 생산성 향상 서비스를 제작합니다.
 
 ---
 
@@ -30,27 +12,17 @@
 
 ---
 
-## 👨‍💻 Team PLAID
-
-| 조태완 [<br>@taewan-cho](https://github.com/taewan2002) | 안재현 [<br>@jaehyun-ahn](https://github.com/Ohjackson) | 서지호 [<br>@jiho-seo](https://github.com/swiftsjh02) |
-|:--:|:--:|:--:|
-| <img width="250" src="https://github.com/user-attachments/assets/493c3a87-af3b-4ea7-aa00-069b4c3df02e/IMG_4453.jpg"> <br> **Technoking (대표)** <br> 가천대 AI소프트웨어 석사 재학, 전 도슨트 CTO | <img width="250" src="https://github.com/user-attachments/assets/d9cf6af6-253b-4d2a-a706-9434edb7294e"> <br> **Forward Deployed AI Engineer** <br> 가천대 재학, SOPT 35기 | <img width="250" src="https://github.com/user-attachments/assets/493c3a87-af3b-4ea7-aa00-069b4c3df02e/IMG_4453.jpg"> <br> **Product Developer** <br> 가천대 재학 |
-
-> 함께 고민하고 성장하는, 기술과 전략이 만나는 팀입니다.
-
----
-
 ## 🚀 주요 도입 사례 (Case Studies)
 
 | 고객 사례 | 개선 효과 |
 |-----------|-----------|
-| **커머스 상품 비교 솔루션** | 수작업 → 자동 비교표 생성 (OCR + LLM), 효율 3배↑ |
+| **커머스 상품 비교 솔루션** | 수작업 → 자동 비교표 + 큐레이션 생성, 효율 3배↑ |
 | **상품 발주 양식 자동 변환** | 3~4시간 → 20분으로 단축 |
 | **상품 마이그레이션 자동화** | 수동 복사 → AI 기반 자동화, 속도 5배 향상 |
 | **SNS 마케팅 콘텐츠 자동 생성** | 콘텐츠 제작 속도 30~50% 향상, 2주 내 팔로워 300명↑ |
-| **고객 대응 쳇봇** | 고객 대응 업무 처리량 50% 감소 |
+| **고객 대응 챗봇** | 고객 대응 업무 처리량 50% 감소 |
 | **Pretotyping 가설 검증 도구** | 비즈니스 아이디어 빠른 검증 가능 |
-<br>[👉 무료 툴 이용해보기](https://your-tool-link.com) 
+<br>[👉 무료 툴 이용해보기](https://pretotyping.plaidai.io) 
 
 ---
 
@@ -62,8 +34,20 @@
 
 ---
 
+## 👨‍💻 Team PLAID
+
+| 조태완 [@taewan-cho](https://github.com/taewan2002) | 안재현 [@jaehyun-ahn](https://github.com/Ohjackson) | 서지호 [@jiho-seo](https://github.com/swiftsjh02) |
+|:--:|:--:|:--:|
+| <img width="250" src="https://github.com/user-attachments/assets/ff679390-cff7-42eb-aede-7b5aa23fd2ea"> <br> **Technoking (CEO)** <br> M.S. in School of Computing (AI Major), Gachon Univ, 前 도슨트 CTO | <img width="250" src="https://github.com/user-attachments/assets/f90b4526-d1fe-4586-a1d7-0d7a801f9287"> <br> **Forward Deployed AI Engineer** <br> Gachon Univ, School of Computing (AI Major), SOPT 35기 | <img width="250" src="https://github.com/user-attachments/assets/493c3a87-af3b-4ea7-aa00-069b4c3df02e/IMG_4453.jpg"> <br> **Product Developer** <br> Gachon Univ, School of Computing (AI Major) | <img width="250" src="https://github.com/user-attachments/assets/add4a263-f613-4200-96f5-94b54d359b01">
+
+
+> 함께 고민하고 성장하는, 기술과 전략이 만나는 팀입니다.
+
+---
+
 ## 📬 Contact
 
 - **Email**: support@plaidai.io
-- **Instagram**: [@plaidai](https://instagram.com/plaidai)  
+- **KakaoTalk**: [https://pf.kakao.com/_xfuxbnn](https://pf.kakao.com/_xfuxbnn)
+- **Instagram**: [@plaid.ai_](https://instagram.com/plaid.ai_)  
 - **Website**: [https://plaidai.io](https://plaidai.io)
